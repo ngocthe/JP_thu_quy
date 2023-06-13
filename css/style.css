@@ -220,7 +220,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #cc1e1e;
+    background-color: #fff;
     height: auto;
     background-size: 100%;
 }
@@ -285,7 +285,7 @@ button {
     width: 100%;
     float: left;
     font-size: 60px;
-    color: #cc1e1e;
+    color: #fff;
     padding-bottom: 0px;
 }
 
@@ -315,7 +315,7 @@ button {
     width: 100%;
     float: left;
     padding-right: 0;
-    background-color: #cc1e1e;
+    background-color: #fff;
     color: #fff;
     text-align: center;
     margin-right: 12px;
@@ -416,7 +416,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #cc1e1e;
+    background-color: #fff;
     color: #ffffff;
     text-align: center;
     padding: 8px;
@@ -519,7 +519,7 @@ img.image {
     text-align: center;
     font-size: 18px;
     color: #ffffff;
-    background-color: #cc1e1e;
+    background-color: #fff;
     padding: 10px 0px;
     margin-top: 40px;
 }
@@ -688,7 +688,7 @@ a:hover {
 .client_text {
     width: 100%;
     font-size: 16px;
-    color: #cc1e1e;
+    color: #fff;
     margin: 0 auto;
 }
 
@@ -711,8 +711,8 @@ a:hover {
     position: absolute;
     width: 100px;
     height: 150px;
-    border-top: 3px solid #cc1e1e;
-    border-left: 3px solid #cc1e1e;
+    border-top: 3px solid #fff;
+    border-left: 3px solid #fff;
     top: 12px;
     left: 0px;
     right: initial;
@@ -723,8 +723,8 @@ a:hover {
     position: absolute;
     width: 100px;
     height: 150px;
-    border-bottom: 3px solid #cc1e1e;
-    border-right: 3px solid #cc1e1e;
+    border-bottom: 3px solid #fff;
+    border-right: 3px solid #fff;
     top: 12px;
     left: initial;
     right: 0px;
@@ -749,7 +749,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #cc1e1e;
+    color: #fff;
     margin: 0px;
 }
 
@@ -762,7 +762,7 @@ a:hover {
     margin-right: 3px;
     margin-left: 3px;
     text-indent: -999px;
-    background-color: #cc1e1e;
+    background-color: #fff;
     border-radius: 20px;
 }
 
@@ -882,7 +882,7 @@ a:hover {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #cc1e1e;
+    background-color: #fff;
     height: auto;
     padding: 95px 0px;
 }
@@ -978,13 +978,13 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #cc1e1e;
+    color: #fff;
     text-align: center;
     margin-left: 0px;
 }
 
 .copyright_text a {
-    color: #cc1e1e;
+    color: #fff;
 }
 
 .copyright_text a:hover {
